@@ -61,11 +61,12 @@ li a{
 
 /* -- Footer -- */
 .info{
-    align-items: center;
-    border-left: 1px solid lightgray;
-    border-right: 1px solid lightgrat
+   background-color: cadetblue;
 }
 
 .info ul li{
-    padding: 2rem
+    padding: 2rem;
+    align-items: center;
+    border-left: 1px solid lightgray;
+    border-right: 1px solid lightgray;
 }

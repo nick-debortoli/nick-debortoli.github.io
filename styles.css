@@ -12,7 +12,7 @@ html{
     border-right: 5px solid black;
 }
 
-header{
+header,footer{
     border: 5px solid black;
 }
 

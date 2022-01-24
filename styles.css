@@ -42,4 +42,8 @@ nav div{
 ul{
     margin-right: 1rem;
 }
+
+ul li{
+    display: inline;
+}
 /* -- Footer -- */

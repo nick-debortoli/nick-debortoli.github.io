@@ -10,6 +10,10 @@ html{
     margin: auto;
 }
 
+a{
+    color: white;
+}
+
 /* -- Navigation Bar --*/
 header{
     background: url(/headshot.jpeg);

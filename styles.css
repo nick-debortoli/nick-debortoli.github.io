@@ -50,5 +50,6 @@ ul li{
 }
 li a{
     color: white;
+    text-decoration: none;
 }
 /* -- Footer -- */

@@ -8,6 +8,12 @@ html{
 .container{
     max-width: 960px;
     margin: auto;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+}
+
+header{
+    border: 5px solid black
 }
 
 
@@ -47,5 +53,6 @@ li a{
 #name-photo img{
     width: 50rem;
     border-radius: 1rem;
+    border: 5px solid cadetblue;
 }
 /* -- Footer -- */

@@ -12,16 +12,6 @@ html{
 
 
 /* -- Navigation Bar --*/
-.main-menu{
-    background: url(/headshot.jpeg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: top;
-    padding-top: 1rem;
-    height: 30rem;
-}
-
-
 h1{
     font-size: 2rem;
     font-weight: bold;
@@ -51,5 +41,11 @@ ul li{
 li a{
     color: white;
     text-decoration: none;
+}
+
+/* -- Main Body -- */
+#name-photo img{
+    size: 40px;
+    align-items: left;
 }
 /* -- Footer -- */

@@ -62,16 +62,15 @@ li a{
 
 /* -- Footer -- */
 footer{
-    font-size: 18px;
+    font-size: 28px;
     font-weight: bold;
+    color: white;
+    background-color: cadetblue;
 }
 
-.info{
-   background-color: cadetblue;
-}
 
 .info ul li{
-    padding: 2rem;
+    padding-left: 2rem;
     align-items: center;
     border-left: 1px solid lightgray;
     border-right: 1px solid lightgray;

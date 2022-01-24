@@ -49,10 +49,14 @@ li a{
     text-decoration: none;
 }
 
+#logo{
+    margin-left: 1rem;
+}
 /* -- Main Body -- */
 #name-photo img{
     width: 35rem;
     border-radius: 1rem;
     border: 5px solid cadetblue;
 }
+
 /* -- Footer -- */

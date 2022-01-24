@@ -34,4 +34,12 @@ nav{
     align-items: center;
     justify-content: space-between;
 }
+nav div{
+    display: flex;
+    align-items: center;
+}
+
+ul{
+    margin-right: 1rem;
+}
 /* -- Footer -- */

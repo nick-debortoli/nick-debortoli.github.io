@@ -1,0 +1,18 @@
+/* -- Universal Styles -- */
+html{
+    background-color: white;
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.container{
+    max-width: 960px;
+    margin: auto;
+}
+
+/* -- Navigation Bar --*/
+header{
+    background: url(/image.jpeg)
+}
+
+/* -- Footer -- */

@@ -2,7 +2,7 @@
 html{
     background-color: white;
     font-family: Helvetica, sans-serif;
-    font-size: 28px;
+    font-size: 35px;
 }
 
 .container{
@@ -38,11 +38,12 @@ nav div{
 }
 
 ul{
-    margin-right: 1rem;
+    margin-right: 0.75rem;
 }
 
 ul li{
     display: inline;
+    padding: 0.25rem;
 }
 li a{
     color: white;

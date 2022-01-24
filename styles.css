@@ -51,7 +51,7 @@ li a{
 
 /* -- Main Body -- */
 #name-photo img{
-    width: 50rem;
+    width: 35rem;
     border-radius: 1rem;
     border: 5px solid cadetblue;
 }

@@ -12,7 +12,26 @@ html{
 
 /* -- Navigation Bar --*/
 header{
-    background: url(/image.jpeg)
+    background: url(/headshot.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    padding-top: 1rem;
+    height: 30rem;
 }
 
+h1{
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 1.2;
+}
+
+nav{
+    padding: 1rem 0;
+    background-color: cadetblue;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
 /* -- Footer -- */
